@@ -3,7 +3,7 @@ package ecommerce.pos.models;
 public class ClasseTestadora {
 
 	public static void main(String[] args) {
-		
+/*		
 		// criando cliente pessoa Fisica
 		Pessoa PF1 = new PessoaFisica(1,"Michel","31/03/1988","15785465-01","145.217.365-54");
 		PF1.AdicionaContato("898","222");
@@ -51,7 +51,7 @@ public class ClasseTestadora {
 		pedido1.getPagamento().realizaPagamento(true, "16/04/17");
 		
 		
-		
+		*/
 	}
 
 }
